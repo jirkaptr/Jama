@@ -1,4 +1,4 @@
 # Jama
-Experimetal repo
+Toto je Experimetal repo.
 
 Nazdar!
